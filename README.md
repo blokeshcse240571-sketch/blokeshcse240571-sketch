@@ -26,4 +26,4 @@
 ## 📫 Connect with Me
 
 * ✉️ Email: [b.lokesh654321@gmail.com](mailto:b.lokesh654321@gmail.com)
-* 🔗 LinkedIn: https://linkedin.com/in/lokesh-example
+* 🔗 LinkedIn: https://linkedin.com/in/lokesh

@@ -1,11 +1,6 @@
 # Hi there 👋, I'm Lokesh!
 
 <h3 align="center">🎓 B.Tech Computer Science & Engineering Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -60,12 +55,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1)
 
 ---
 

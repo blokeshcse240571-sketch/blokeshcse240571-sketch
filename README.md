@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Lokesh!
 
 <h3 align="center">🎓 B.Tech Computer Science & Engineering Student | 💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast</h3>
----
 
 ## 🚀 About Me
 

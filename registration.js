@@ -23,7 +23,7 @@ document.getElementById("registrationForm").addEventListener("submit", function(
         photo === 0 ||
         signature === 0
     ){
-        alert("Please fill in all the fields.");
+        alert("Please fill all the fields.");
         return;
     }
 

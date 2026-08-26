@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in CSE**
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering**
 - 🌱 Currently learning **Analysis of Algorithms (ADA)** and **DevOps**
 - 💡 Interested in **Full Stack Development**
 - 🤖 Passionate about **Artificial Intelligence** & **Web Development**
